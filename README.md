@@ -1,6 +1,6 @@
-# An Assorted Machine Learning Beginners Course
+# An Assorted Machine Learning Course
 
-## Fully fucntional machine learning codes written in Python and Jupyter Notebooks that cover several aspects of supervised learning, unsupervised learning, and image processing algorithms.
+## Fully functional machine learning codes written in Python and Jupyter Notebooks that cover several aspects of supervised learning, unsupervised learning, and image processing algorithms.
 
 This is a course for those looking to start their journey with machine learning and how to implement its techniques with readily available instructions inside the codes. This course is divided into 7 modules that starts with some basic Python commands - required for the learner to proceed through the course - and ends with advanced image processing techniques. The modules are listed as follows:
 
