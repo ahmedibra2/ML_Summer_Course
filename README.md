@@ -78,7 +78,7 @@ Original Image            |  Grayscale Image      |  Clustered Image using KMean
 
 In this final module, we apply our machine learning knowledge in training a neural network model to predict the lateral displacement of a 10-story building $\vec{u}$ due to an applied force to each story given by the loading vector $\vec{p}$. The true displacements are computed using the stiffness matrix of the structure $\mathbf{K}$.
 
-Five test cases are analyzed to demonstrate the generalizability of the neural network, whereas cases 1-3 are within the range of training data, while case 4 is out of range, and case 5 is at the limit of the range. This final example shows how machine learning can efficiently and effectively solve engineering problems and understand the underlying relations between the inputs and outputs while taking into account its limitations.
+Five test cases are analyzed to demonstrate the generalizability of the neural network: cases 1-3 are within the range of training data, while case 4 is out of range, and case 5 is at the limit of the range. This final example shows how machine learning can efficiently and effectively solve engineering problems and understand the underlying relations between the inputs and outputs while taking into account its limitations.
 
 [Problem Statement](Module7-ML-Structures/problem_statement.pdf) \
 [Juputer Notebook](Module7-ML-Structures/Module7-MachineLearning-Structures.ipynb)
