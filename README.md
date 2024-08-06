@@ -1,6 +1,6 @@
 # A Machine Learning Course for Starters
 
-This is a course for those looking to start their journey with machine learning and to implement its algorithms. The codes are written in **Python** and **Jupyter Notebooks** and cover several aspects of supervised learning, unsupervised learning, and image processing algorithms with readily available instructions and comments inside. This course is divided into 7 modules that start with some basic explanation of Python commands - required for the learner to proceed through the course - and end with some advanced techniques for image processing.
+This is a course for those looking to start their journey with machine learning and to implement its algorithms. The codes are written in **Python** and **Jupyter Notebook** and cover several aspects of supervised learning, unsupervised learning, and image processing algorithms with readily available instructions and comments inside. This course is divided into 7 modules that start with some basic explanation of Python commands - required for the learner to proceed through the course - and end with some advanced techniques for image processing.
 
 ---
 
